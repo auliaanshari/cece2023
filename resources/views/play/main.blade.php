@@ -28,10 +28,10 @@
                                                 <thead>
                                                     <tr class="table-primary fs-4">
                                                         <th></th>
-                                                        <th>{{$scores[1]->nama_team}}</th>s
-                                                        <th>{{$scores[2]->nama_team}}</th>
-                                                        <th>{{$scores[3]->nama_team}}</th>
-                                                        <th>{{$scores[0]->nama_team}}</th>
+                                                        <th class="text-danger">{{$scores[1]->nama_team}}</th>
+                                                        <th class="text-warning">{{$scores[2]->nama_team}}</th>
+                                                        <th class="text-success">{{$scores[3]->nama_team}}</th>
+                                                        <th class="text-secondary">{{$scores[0]->nama_team}}</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
