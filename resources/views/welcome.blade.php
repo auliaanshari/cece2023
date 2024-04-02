@@ -10,9 +10,9 @@
                 </a>
             </div>
             <h2 class="text-white display-3">Selamat Datang</h2>
-            <h5 class="text-white">Dilomba cerdas cermat Semarak Ramadan 1444 H</h5>
+            <h5 class="text-white">Dilomba cerdas cermat Semarak Ramadan 1445 H</h5>
             <p class="text-white">Ikatan Remaja Masjid Muslimin Bulakan Tanjuang Gadang</p>
-            {{-- <div class="countdown2 justify-content-center" id="countdown2" data-date="23-4-2022" data-time="22:00">
+            {{-- <div class="countdown2 justify-content-center" id="countdown2" data-date="02-4-2023" data-time="22:00">
                 <div class="day"><span class="num"></span><span class="word"></span></div>
                 <div class="hour"><span class="num"></span><span class="word"></span></div>
                 <div class="min"><span class="num"></span><span class="word"></span></div>
